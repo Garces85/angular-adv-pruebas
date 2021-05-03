@@ -24,7 +24,7 @@ class FakeActivatedRoute {
 
 }
 
-
+//prueba
 describe('RouterMedicoComponent', () => {
   let component: RouterMedicoComponent;
   let fixture: ComponentFixture<RouterMedicoComponent>;
